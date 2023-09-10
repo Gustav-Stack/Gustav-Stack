@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que 
 
 ### Todo
 
-![Imagem](images/Todo.png)
+![Imagem]([images/Todo.png](https://gustav-stack.github.io/Portfolio/images/Todo.png))
 
 - **Tecnologias Utilizadas:** JavaScript, MongoDB, Mongoose, EJS, Node.js
 - **Descrição:** Um aplicativo simples para tarefas diárias com funções para adicionar, deletar e editar itens e notas feitas.
