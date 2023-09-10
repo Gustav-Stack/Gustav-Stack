@@ -15,7 +15,6 @@ Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que 
   - [Abrir](https://todolist-.cyclic.app)
   - [Ver Código](https://github.com/Gustav-Stack/Todo-List)
 
-
 ### NewsLetter
 
 ![Imagem](https://gustav-stack.github.io/Portfolio/images/NewsLetter.png)
@@ -67,4 +66,3 @@ Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que 
   - *Veja o código no repositório* (Código privado)
 
 Sinta-se à vontade para explorar esses projetos e entre em contato comigo se tiver alguma pergunta ou feedback. Espero que você encontre algo interessante aqui!
-
