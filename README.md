@@ -7,7 +7,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que 
 
 ### Todo
 
-![Imagem](https://gustav-stack.github.io/Portfolio/images/Todo.png)
+<img src="https://gustav-stack.github.io/Portfolio/images/Todo.png" width="200">
 
 - **Tecnologias Utilizadas:** JavaScript, MongoDB, Mongoose, EJS, Node.js
 - **Descrição:** Um aplicativo simples para tarefas diárias com funções para adicionar, deletar e editar itens e notas feitas.
@@ -17,7 +17,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que 
 
 ### NewsLetter
 
-![Imagem](https://gustav-stack.github.io/Portfolio/images/NewsLetter.png)
+<img src="https://gustav-stack.github.io/Portfolio/images/NewsLetter.png" width="200">
 
 - **Tecnologias Utilizadas:** JavaScript, Node.js, MailChimp
 - **Descrição:** Um aplicativo para cadastramento em newsletter ou blog com manipulação de objetos e armazenamento de e-mails em uma lista.
@@ -27,7 +27,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que 
 
 ### SimonGame
 
-![Imagem](https://gustav-stack.github.io/Portfolio/images/SimonGame.png)
+<img src="https://gustav-stack.github.io/Portfolio/images/SimonGame.png" width="200">
 
 - **Tecnologias Utilizadas:** HTML, CSS, JavaScript, DOM
 - **Descrição:** Um jogo da memória feito com manipulação do DOM em JavaScript, aleatorizando e armazenando padrões para o usuário replicar.
@@ -37,7 +37,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que 
 
 ### Blog
 
-![Imagem](https://gustav-stack.github.io/Portfolio/images/NewsLetter.png)
+<img src="https://gustav-stack.github.io/Portfolio/images/NewsLetter.png" width="200">
 
 - **Tecnologias Utilizadas:** MongoDB, Mongoose, EJS, Node.js
 - **Descrição:** Um aplicativo de blog para postagem e armazenamento de um banco de dados de postagens com a opção de deletar as postagens feitas.
@@ -47,7 +47,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que 
 
 ### Weather
 
-![Imagem](https://gustav-stack.github.io/Portfolio/images/Wheater.png)
+<img src="https://gustav-stack.github.io/Portfolio/images/Wheater.png" width="200">
 
 - **Tecnologias Utilizadas:** JavaScript, OpenWeatherMap, EJS, Node.js
 - **Descrição:** Um aplicativo de previsão do tempo que utiliza uma API para fornecer dados de umidade, vento e temperatura do local.
@@ -57,7 +57,7 @@ Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que 
 
 ### BookFlow
 
-![Imagem](https://gustav-stack.github.io/Portfolio/images/BookFlow.png)
+<img src="https://gustav-stack.github.io/Portfolio/images/BookFlow.png" width="200">
 
 - **Tecnologias Utilizadas:** HTML, CSS, JavaScript, ReactJS, NodeJS, MongoDB
 - **Descrição:** Permite catalogar e acompanhar livros finalizados, com recursos de gerenciamento de biblioteca, metas de leitura e histórico. A sincronização em nuvem e recursos de anotações facilitam o acesso e revisão do conteúdo.
