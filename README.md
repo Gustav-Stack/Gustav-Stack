@@ -7,3 +7,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-Stack&layout=compact" alt="Top Langs">
 </p>
+
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/Gustav-Stack/Gustav-Stack"/> 
+ 
+ <img src="https://badges.pufler.dev/repos/Gustav-Stack"/>
+ <img src="https://badges.pufler.dev/commits/monthly/Gustav-Stack" />
+
+</p>
