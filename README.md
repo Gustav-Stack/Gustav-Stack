@@ -6,6 +6,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-Stack&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-Stack&layout=compact)
 Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que tenho trabalhado recentemente. Cada projeto inclui uma breve descrição, links para acessá-los e, quando disponível, links para o código-fonte.
 
 ## Projetos
