@@ -1,8 +1,9 @@
 # README
 
-<p align="center" width="500px">
-<img src="https://github.com/Gustav-Stack/Portfolio/blob/master/images/Hi.png" alt="banner">
+<p align="center" style="width: 500px;">
+  <img src="https://github.com/Gustav-Stack/Portfolio/blob/master/images/Hi.png" alt="banner" height="200px">
 </p>
+
 
 <p align="center">
  
