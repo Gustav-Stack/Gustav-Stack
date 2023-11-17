@@ -1,6 +1,8 @@
 # README
 # Portfólio de Projetos
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 Bem-vindo ao meu portfólio de projetos! Aqui estão alguns dos projetos em que tenho trabalhado recentemente. Cada projeto inclui uma breve descrição, links para acessá-los e, quando disponível, links para o código-fonte.
 
 ## Projetos
