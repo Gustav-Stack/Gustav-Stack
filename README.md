@@ -22,6 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-Stack&layout=compact" alt="Top Langs">
   
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gustav-Stack)](https://git.io/streak-stats)
 </p>
 
 
