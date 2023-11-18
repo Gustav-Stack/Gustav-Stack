@@ -8,7 +8,7 @@
   <img src="https://badges.pufler.dev/commits/monthly/Gustav-Stack" />
 </p>
 <p align="center">
-  Olá! Sou um apaixonado desenvolvedor web, especializado em JavaScript e entusiasta de frameworks como Bootstrap e jQuery. Trabalho em projetos full-stack, desde simples páginas até aplicações robustas utilizando Node.js, MongoDB e React.js. Minhas habilidades incluem também UI/UX Design. Atualmente, estou no 4º período de Engenharia de Software e tenho um nível de inglês intermediário.
+  Olá! Sou um desenvolvedor web, com habilidades em JavaScript e entusiasta de frameworks como Bootstrap e jQuery. Trabalho em projetos full-stack, desde simples páginas até aplicações robustas utilizando Node.js, MongoDB e React.js. Minhas habilidades incluem também UI/UX Design. Atualmente, estou no 4º período de Engenharia de Software e tenho um nível de inglês intermediário.
 </p>
 <h2 align="center" style="color: #61dafb;">Tecnologias</h2>
 <p align="center">
