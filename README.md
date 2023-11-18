@@ -11,13 +11,7 @@
 <p align="center">
   Olá! Sou um desenvolvedor web com experiência em projetos JavaScript, incluindo frameworks como Bootstrap e jQuery. Além disso, tenho experiência em projetos tanto front-end quanto back-end, que variam desde páginas simples até manipulação de estado e utilização de banco de dados com as tecnologias Node.js, MongoDB e React.js. Também possuo habilidades em UI/UX Design. Atualmente, sou estudante do 4º período de Engenharia de Software e tenho um nível de inglês intermediário.
 </p>
-<h2 align="center" style="color: #61dafb;">Estatísticas</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-Stack&layout=compact&theme=dark" alt="Top Langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustav-Stack&theme=dark" alt="GitHub Streak">
-</p>
-<h2 align="center" style="color: #61dafb;">Tecnologias</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
@@ -31,22 +25,16 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-
-
-
-
-<h2 align="center">Technology Stack</h2>
-
+<h2 align="center" style="color: #61dafb;">Estatísticas</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=dark" alt="GitHub Stats">
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-Stack&layout=compact&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustav-Stack&theme=dark" alt="GitHub Streak">
 </p>
+<h2 align="center" style="color: #61dafb;">Tecnologias</h2>
+
+
+
+
+
 
