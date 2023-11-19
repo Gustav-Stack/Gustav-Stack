@@ -1,6 +1,6 @@
 # README
 <p align="center" ">
-  <img src="https://github.com/Gustav-Stack/Portfolio/blob/master/images/Hi.png" alt="banner" height="200px">
+  <img src="https://github.com/Gustav-Stack/Portfolio/blob/master/images/Hi.png" alt="banner" >
 </p>
 <p align="center">
   <img src="https://badges.pufler.dev/visits/Gustav-Stack/Gustav-Stack"/> 
