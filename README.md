@@ -1,5 +1,5 @@
 # README
-<p align="center" style="width: 1000px;">
+<p align="center" ">
   <img src="https://github.com/Gustav-Stack/Portfolio/blob/master/images/Hi.png" alt="banner" height="200px">
 </p>
 <p align="center">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 <h2 align="center" style="color: #61dafb;">Estatísticas</h2>
-<p align="center">
+<p >
   <img src="https://github-readme-stats.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=dark" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-Stack&layout=compact&theme=dark" alt="Top Langs">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustav-Stack&theme=dark" alt="GitHub Streak">
