@@ -1,8 +1,6 @@
 # README
 <p align="center" ">
-  <img src="![image](https://github.com/Gustav-Stack/Gustav-Stack/assets/84866142/272a77f6-542e-4734-8841-0d065e464868)
-" alt="banner" >
-  ![image](https://github.com/Gustav-Stack/Gustav-Stack/assets/84866142/c743d88f-f179-4ad8-a9a3-738990665144)
+  <img src="https://github.com/Gustav-Stack/Gustav-Stack/assets/84866142/c743d88f-f179-4ad8-a9a3-738990665144" alt="banner" >
 
 </p>
 <p align="center">
