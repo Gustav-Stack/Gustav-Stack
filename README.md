@@ -1,6 +1,7 @@
 # README
 <p align="center" ">
-  <img src="https://github.com/Gustav-Stack/Portfolio/blob/master/images/Hi.png" alt="banner" >
+  <img src="![image](https://github.com/Gustav-Stack/Gustav-Stack/assets/84866142/272a77f6-542e-4734-8841-0d065e464868)
+" alt="banner" >
 </p>
 <p align="center">
   <img src="https://badges.pufler.dev/visits/Gustav-Stack/Gustav-Stack"/> 
