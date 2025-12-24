@@ -23,5 +23,4 @@ WhyApp (2024) – Aplicativo de conversas com autenticação, API REST em NestJS
 
 DeliveryApp (2025) – Sistema de entregas em desenvolvimento, com NestJS, Prisma e Redis.
 
-📎 Veja todos os meus projetos aqui: github.com/Gustav-Stack?tab=repositories
 
