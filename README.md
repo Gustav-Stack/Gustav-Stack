@@ -18,15 +18,12 @@ Sou apaixonado por aprender, liderar e estruturar soluções escaláveis, sempre
 
 🧰 Tecnologias e Ferramentas
 <p align="center"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/> </p>
-📊 Estatísticas do GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=dark" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustav-Stack&layout=compact&theme=dark" alt="Top Langs"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustav-Stack&theme=dark" alt="GitHub Streak"> </p>
+
 🚀 Projetos Recentes
 
-WhyApp (2024) – Aplicativo de conversas com autenticação, API REST em NestJS e banco de dados Supabase.
+WhyApp (2024) – Aplicativo de conversas com autenticação, API REST em NestJS e banco de dados Postgres.
 
-DeliveryApp (2025) – Sistema de entregas em desenvolvimento, com NestJS, Prisma, Redis e integração com Google Routes API.
+DeliveryApp (2025) – Sistema de entregas em desenvolvimento, com NestJS, Prisma e Redis.
 
 📎 Veja todos os meus projetos aqui: github.com/Gustav-Stack?tab=repositories
 
-🌐 Conecte-se comigo
-<p align="center"> <a href="https://linkedin.com/in/teu-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:teu-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Gustav-Stack"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
