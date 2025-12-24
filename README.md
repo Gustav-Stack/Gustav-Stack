@@ -8,9 +8,7 @@ Tenho experiência prática com:
 
 Criação e documentação de APIs com NestJS, Prisma ORM e Swagger
 
-Deploy e infraestrutura utilizando Docker, AWS e Supabase
-
-Implementação de Redis e Google Routes API em aplicações de delivery
+Deploy e infraestrutura utilizando Docker, Render e Supabase, Implementação de Redis
 
 Colaboração com equipes de front-end React, aplicando metodologias ágeis (Scrum e Trello)
 
