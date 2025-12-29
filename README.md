@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/Gustav-Stack/Gustav-Stack/assets/84866142/e3a1c64b-0f17-45f2-ac6a-f41142d1bcc9" alt="banner"> </p> <p align="center"> <img src="https://badges.pufler.dev/visits/Gustav-Stack/Gustav-Stack"/> <img src="https://badges.pufler.dev/repos/Gustav-Stack"/> <img src="https://badges.pufler.dev/commits/monthly/Gustav-Stack" /> </p>
+<p align="center"> <img src="https://github.com/Gustav-Stack/Gustav-Stack/assets/84866142/e3a1c64b-0f17-45f2-ac6a-f41142d1bcc9" alt="banner"> </p> <p align="center"> 
 👋 Olá, eu sou o Gustavo!
 
 Sou estudante de Engenharia de Software (último período) e desenvolvedor focado em Back-End com Node.js e NestJS.
