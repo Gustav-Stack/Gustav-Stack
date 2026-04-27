@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo 👋
+# Olá, eu sou o Gustavo 
 
 Desenvolvedor backend.
 
@@ -8,7 +8,7 @@ Em constante Aprendizado.
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -26,19 +26,19 @@ Em constante Aprendizado.
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
-### 🔒 LikeDelivery · *em desenvolvimento*
+### LikeDelivery · *em desenvolvimento*
 Plataforma de entregas construída do zero. Responsável pela arquitetura, modelagem do banco, Redis, Docker e decisões técnicas em equipe.  
 `NestJS` `TypeScript` `PostgreSQL` `Prisma` `Redis` `Docker`
 
-### 💬 [WhyApp](https://github.com/Gustav-Stack/whyapp-backend) · *2024*
+### [WhyApp](https://github.com/Gustav-Stack/whyapp-backend) · *2024*
 Chat em tempo real com API REST + WebSockets. Autenticação JWT, Prisma ORM e PostgreSQL. Desenvolvido em equipe com time de frontend.  
 `NestJS` `TypeScript` `PostgreSQL` `Prisma` `WebSockets` `Docker`
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -51,7 +51,7 @@ Chat em tempo real com API REST + WebSockets. Autenticação JWT, Prisma ORM e P
 
 ---
 
-## 📬 Contato
+## Contato
 
 <p>
   <a href="https://linkedin.com/in/gustavo-lucena1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
