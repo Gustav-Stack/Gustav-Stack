@@ -1,29 +1,29 @@
-# Gustavo Lucena
+# Olá, eu sou o Gustavo
 
-Desenvolvedor backend focado em construir APIs escaláveis, arquiteturas resilientes e sistemas de alta performance.
+Sou desenvolvedor backend e gosto de transformar problemas complexos em sistemas simples, escaláveis e bem arquitetados. No dia a dia, trabalho principalmente com NestJS, TypeScript, Python, PostgreSQL e Google Cloud — sempre buscando entender o problema antes de escrever a primeira linha de código.
 
-Trabalho principalmente com NestJS, TypeScript, Python, PostgreSQL e Google Cloud, cobrindo desde a modelagem de banco de dados até o deploy cloud-native. Tenho experiência também em integração segura com LLMs, tomada de decisões técnicas e desenvolvimento de produtos do zero.
+Curto pensar em arquitetura, discutir decisões técnicas e construir produtos do zero, desde a modelagem do banco de dados até o deploy em produção. Também tenho experiência integrando LLMs de forma segura em sistemas reais, sem abrir mão de boas práticas de engenharia.
 
-Formado em Engenharia de Software pela UniCesumar. Inglês profissional (B2).
+Formado em Engenharia de Software pela UniCesumar, com inglês profissional (B2). No momento, estou em busca de novas oportunidades como desenvolvedor backend, onde eu possa contribuir com código limpo, boas decisões arquiteturais e vontade de aprender.
 
-Atualmente em busca de oportunidades formais como desenvolvedor backend.
-
-## Stack
+## O que eu uso no dia a dia
 
 `NestJS` `TypeScript` `Python` `PostgreSQL` `Redis` `Docker` `Google Cloud` `Prisma` `SQLAlchemy` `REST APIs` `WebSockets`
 
-## Projetos em destaque
+## Alguns projetos que construí
 
-- **[Intelligent Site Services Copilot](https://github.com/Gustav-Stack/Intelligent-Site-Services-Copilot)** — Dashboard de inteligência operacional com assistente de análise de negócios em linguagem natural
-- **LikeDelivery** — Plataforma de entregas em desenvolvimento, responsável pelo backend, arquitetura e modelagem de banco de dados
-- **[OdontoPro](https://github.com/Gustav-Stack/odontopro)** — Plataforma para gestão de clínicas odontológicas
-- **[WhyApp](https://github.com/Gustav-Stack/whyapp-backend)** — Aplicação de conversas em tempo real com WebSockets
+- **[Intelligent Site Services Copilot](https://github.com/Gustav-Stack/Intelligent-Site-Services-Copilot)** — dashboard de inteligência operacional com um assistente que responde perguntas de negócio em linguagem natural, com arquitetura pensada para manter o LLM isolado dos dados sensíveis
+- **LikeDelivery** — plataforma de entregas em desenvolvimento, onde sou responsável pelo backend, pela arquitetura do sistema e pela modelagem do banco de dados
+- **[OdontoPro](https://github.com/Gustav-Stack/odontopro)** — plataforma para gestão de clínicas odontológicas, com autenticação e agendamento
+- **[WhyApp](https://github.com/Gustav-Stack/whyapp-backend)** — aplicativo de conversas em tempo real, com API construída em NestJS e comunicação via WebSockets
 
 ## Certificações
 
-Google Cloud Skills Boost — Cloud Computing Fundamentals, Infrastructure in Google Cloud, App Dev Environment, Secure Google Cloud Network, Load Balancing, ML APIs
+Google Cloud Skills Boost — Cloud Computing Fundamentals, Infrastructure in Google Cloud, App Dev Environment, Secure Google Cloud Network, Load Balancing e ML APIs
 
-## Contato
+## Vamos conversar?
+
+Se você tem uma oportunidade em aberto ou só quer trocar uma ideia sobre backend, arquitetura ou IA aplicada, fico à disposição.
 
 - LinkedIn: [gustavo-lucena1](https://www.linkedin.com/in/gustavo-lucena1/)
 - E-mail: gustavolucenaemprego@gmail.com
