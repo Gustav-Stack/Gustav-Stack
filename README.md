@@ -1,19 +1,27 @@
-# Hi, I'm Gustavo Lima de Lucena
-### Software Engineer
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="Animated Hello" />
+  <h1>Gustavo Lima de Lucena</h1>
+  <h3>Software Engineer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Gustav-Stack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Gustav-Stack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </p>
+</div>
 
-* I'm currently working on **Like Delivery** backend creation
-* I'm currently learning **LLMs**, **Cloud Computing**, and **Data Analysis**
-* How to reach me: **gustavolucenaemprego@gmail.com**
-* Portfolio: [gustav-stack.github.io/Portfolio](https://gustav-stack.github.io/Portfolio/)
-* Resume: [Download English Resume](https://gustav-stack.github.io/Portfolio/public/Gustavo_Lucena_Resume_EN.pdf)
+---
+
+### About Me
+
+* 🔭 Currently working on **Like Delivery** backend creation
+* 🌱 Learning **LLMs**, **Cloud Computing**, and **Data Analysis**
+* 📫 Contact: **gustavolucenaemprego@gmail.com**
+* 👨‍💻 Portfolio: [gustav-stack.github.io/Portfolio](https://gustav-stack.github.io/Portfolio/)
+* 📄 Resume: [Download English Resume](https://gustav-stack.github.io/Portfolio/public/Gustavo_Lucena_Resume_EN.pdf)
 
 ---
 
 ### Connect with me:
+
 <p align="left">
   <a href="https://github.com/Gustav-Stack" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
@@ -58,12 +66,11 @@
 ---
 
 ### GitHub Stats
-<p align="center">
+
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Gustav-Stack&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-<p align="center">
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Gustav-Stack&theme=dark" alt="GitHub Streak" />
-</p>
+</div>
