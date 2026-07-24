@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Gustav-Stack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Gustav-Stack" alt="Gustav-Stack Trophies" />
-  </a>
-</p>
-
 * 🔭 I'm currently working on **Like Delivery** backend creation
 * 🌱 I'm currently learning **LLMs**, **Cloud Computing**, and **Data Analysis**
 * 📫 How to reach me: **gustavolucenaemprego@gmail.com**
@@ -31,19 +25,43 @@
 
 ---
 
-### Languages and Tools:
+### 🛠️ Tech Stack & Tools
+
+#### 🟢 Backend & Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nestjs,postgres,nodejs,docker,express,nextjs,react,tailwind,redis,mongodb,spring,java,js,c,gcp,nginx,linux,bash,git,figma,postman" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,express,spring,java,c" alt="Backend and Languages" />
+  </a>
+</p>
+
+#### 🎨 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,html" alt="Frontend" />
+  </a>
+</p>
+
+#### 🗄️ Databases, Cloud & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,gcp,nginx,linux,bash" alt="Databases Cloud and DevOps" />
+  </a>
+</p>
+
+#### 🧰 Tools & Software
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,figma" alt="Tools" />
   </a>
 </p>
 
 ---
 
-### GitHub Stats:
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=dark" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustav-Stack&layout=compact&theme=dark" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustav-Stack&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p align="center">
