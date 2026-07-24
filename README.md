@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="500" alt="Animated Hello" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600" alt="Animated Laptop Banner" />
+
   <h1>Gustavo Lima de Lucena</h1>
   <h3>Software Engineer</h3>
 
@@ -67,10 +68,12 @@
 
 ### GitHub Stats
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Gustav-Stack&layout=compact&theme=dark" alt="Top Languages" />
-  <br/><br/>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Gustav-Stack&show_icons=true&theme=dark" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Gustav-Stack&layout=compact&theme=dark" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Gustav-Stack&theme=dark" alt="GitHub Streak" />
-</div>
+</p>
