@@ -1,29 +1,32 @@
-# Olá, eu sou o Gustavo
+# Hi 👋, I'm gustavo lima de lucena
 
-Sou desenvolvedor backend e gosto de transformar problemas complexos em sistemas simples, escaláveis e bem arquitetados. No dia a dia, trabalho principalmente com NestJS, TypeScript, Python, PostgreSQL e Google Cloud — sempre buscando entender o problema antes de escrever a primeira linha de código.
+### Software Engineer
 
-Curto pensar em arquitetura, discutir decisões técnicas e construir produtos do zero, desde a modelagem do banco de dados até o deploy em produção. Também tenho experiência integrando LLMs de forma segura em sistemas reais, sem abrir mão de boas práticas de engenharia.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gustav-Stack&label=Profile views&color=0e75b6&style=flat" alt="Gustav-Stack" /> </p>
 
-Formado em Engenharia de Software pela UniCesumar, com inglês profissional (B2). No momento, estou em busca de novas oportunidades como desenvolvedor backend, onde eu possa contribuir com código limpo, boas decisões arquiteturais e vontade de aprender.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gustav-Stack" alt="Gustav-Stack" /></a> </p>
 
-## O que eu uso no dia a dia
+- 🔭 I'm currently working on **Like Delivery backend creation**
 
-`NestJS` `TypeScript` `Python` `PostgreSQL` `Redis` `Docker` `Google Cloud` `Prisma` `SQLAlchemy` `REST APIs` `WebSockets`
+- 🌱 I'm currently learning **LLM's and cloud computing with data analysis**
 
-## Alguns projetos que construí
+- 📫 How to reach me **gustavolucenaemprego@gmail.com**
 
-- **[Intelligent Site Services Copilot](https://github.com/Gustav-Stack/Intelligent-Site-Services-Copilot)** — dashboard de inteligência operacional com um assistente que responde perguntas de negócio em linguagem natural, com arquitetura pensada para manter o LLM isolado dos dados sensíveis
-- **LikeDelivery** — plataforma de entregas em desenvolvimento, onde sou responsável pelo backend, pela arquitetura do sistema e pela modelagem do banco de dados
-- **[OdontoPro](https://github.com/Gustav-Stack/odontopro)** — plataforma para gestão de clínicas odontológicas, com autenticação e agendamento
-- **[WhyApp](https://github.com/Gustav-Stack/whyapp-backend)** — aplicativo de conversas em tempo real, com API construída em NestJS e comunicação via WebSockets
+- 👨‍💻 All of my projects are available at **[https://gustav-stack.github.io/Portfolio/](https://gustav-stack.github.io/Portfolio/)**
 
-## Certificações
+- 📄 Know about my experiences **[https://gustav-stack.github.io/Portfolio/public/Gustavo_Lucena_Resume_EN.pdf](https://gustav-stack.github.io/Portfolio/public/Gustavo_Lucena_Resume_EN.pdf)**
 
-Google Cloud Skills Boost — Cloud Computing Fundamentals, Infrastructure in Google Cloud, App Dev Environment, Secure Google Cloud Network, Load Balancing e ML APIs
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/Gustav-Stack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gustav-Stack" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-lucena1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-lucena1" height="30" width="40" /></a>
+</p>
 
-## Vamos conversar?
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nestjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-Se você tem uma oportunidade em aberto ou só quer trocar uma ideia sobre backend, arquitetura ou IA aplicada, fico à disposição.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustav-Stack&show_icons=true&locale=en&layout=compact" alt="Gustav-Stack" /></p>
 
-- LinkedIn: [gustavo-lucena1](https://www.linkedin.com/in/gustavo-lucena1/)
-- E-mail: gustavolucenaemprego@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gustav-Stack&show_icons=true&locale=en" alt="Gustav-Stack" /></p>
+
+<p><img align="center" src="https://streak-stats.demolab.com?user=Gustav-Stack" alt="Gustav-Stack" /></p>
